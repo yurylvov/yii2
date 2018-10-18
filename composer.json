@@ -84,7 +84,16 @@
         "phpunit/phpunit": "4.8.34",
         "cebe/indent": "~1.0.2",
         "friendsofphp/php-cs-fixer": "~2.2.3",
-        "johnkary/phpunit-speedtrap": "^1.0"
+        "johnkary/phpunit-speedtrap": "^1.0",
+        "phpmd/phpmd": "^2.2",
+        "squizlabs/php_codesniffer": "^2.3",
+        "sebastian/phpcpd": "^2.0",
+        "phploc/phploc": "^2.1",
+        "pdepend/pdepend": "^2.1",
+        "theseer/phpdox": "^0.8.1.1",
+        "symfony/browser-kit": "^2.7",
+        "symfony/css-selector": "^2.7",
+        "phing/phing": "^2.12"
     },
     "repositories": [
         {
